@@ -1,0 +1,84 @@
+commit 27235d4bde1a7b33e3af84dbfd9fad541916c4d8
+Author: Brian Fuentes <Brian.Fuentes04@gmail.com>
+Date:   Fri Feb 13 11:10:41 2026 -0800
+
+    Update groupmate's information in index.html
+
+commit 202fd0c290410b36f485f6967d1d0e63773ce790
+Merge: f37cdce 03558df
+Author: LudwigV <ludwigvincent@hotmail.com>
+Date:   Tue Feb 10 22:33:57 2026 -0800
+
+    Merge pull request #1 from LudwigV/feature-about-me
+    
+    Merge the feature-about-me branch with the main branch.
+
+commit 03558df7ea313b3b3033e67bc82bff52d846f022
+Merge: c9fa49d f37cdce
+Author: LudwigV <ludwigvincent@hotmail.com>
+Date:   Tue Feb 10 22:32:35 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit c9fa49d8274cff74f2c6223971fdd721ffbe107d
+Author: LudwigV <ludwigvincent@hotmail.com>
+Date:   Tue Feb 10 22:26:26 2026 -0800
+
+    Removed a sentence from the index.html
+
+commit ad63f408e7a8fa77ffe6dc53686985c3c850891a
+Author: LudwigV <ludwigvincent@hotmail.com>
+Date:   Tue Feb 10 22:23:54 2026 -0800
+
+    Update name in index.html
+
+commit c0fcd164c4cf30409bb9545a986d33f04995da27
+Author: LudwigV <ludwigvincent@hotmail.com>
+Date:   Tue Feb 10 22:12:02 2026 -0800
+
+    Update index.html
+
+commit 59eb01d9290373dab1826e452d30dc190132f51f
+Author: LudwigV <ludwigvincent@hotmail.com>
+Date:   Tue Feb 10 22:02:49 2026 -0800
+
+    Fill out information in index.html
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
